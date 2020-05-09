@@ -17,6 +17,7 @@ public class Main {
 
 	    //Jeigu orientuota briauna priklauso grafui, rasyti 1, nei ne - 0
         //Virsune (1,1) visada priklauso grafui
+        //Reiksmes vesti su tarpu
 
 	    for(int i=0; i<max; i++){
 	        for(int j=0; j<max; j++){
