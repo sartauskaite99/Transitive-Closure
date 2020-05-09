@@ -29,7 +29,7 @@ public class Main {
 	            if(correct == 1|| correct == 0)
 	                adj_matrix[i][j]= correct;
 	            else{
-	                System.out.println("Entered value are incorrect\n");
+	                System.out.println("Entered value is incorrect\n");
 	                System.exit(0);
                 }
             }
